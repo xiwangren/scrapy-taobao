@@ -1,0 +1,363 @@
+1695394531363	geckodriver	INFO	Listening on 127.0.0.1:55232
+1695394532590	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofilezSYSyb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695394533165	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695394533751	Marionette	INFO	Listening on port 55244
+WebDriver BiDi listening on ws://127.0.0.1:55233
+Read port: 55244
+1695394534068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55233/devtools/browser/ac565ac3-2558-414a-ad2d-bbd771735344
+1695394561956	geckodriver	INFO	Listening on 127.0.0.1:55281
+1695394561967	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofileRBanKK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695394562442	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695394563017	Marionette	INFO	Listening on port 55287
+WebDriver BiDi listening on ws://127.0.0.1:55282
+Read port: 55287
+1695394563256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55282/devtools/browser/709909de-ad18-4bfd-9a5d-c3dfc16fa3f9
+1695394567275	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.taobao.com."
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1695394601895	geckodriver	INFO	Listening on 127.0.0.1:55377
+1695394601905	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofileTJek74"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695394602398	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695394602600	Marionette	INFO	Listening on port 55383
+Read port: 55383
+WebDriver BiDi listening on ws://127.0.0.1:55378
+1695394602956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55378/devtools/browser/81081d11-2b00-4145-9e88-57dcd23215ce
+1695395132534	Marionette	INFO	Stopped listening on port 55383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1695395132718	Marionette	INFO	Stopped listening on port 55244
+1695522066974	geckodriver	INFO	Listening on 127.0.0.1:51526
+1695522068473	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofile6XrFLa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695522068989	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695522069599	Marionette	INFO	Listening on port 51536
+Read port: 51536
+WebDriver BiDi listening on ws://127.0.0.1:51527
+1695522069670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51527/devtools/browser/a3931dfc-2c73-4450-b7e4-129ca320534f
+Invalid port. Exiting...
+1695522440707	Marionette	INFO	Stopped listening on port 51536
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+Invalid port. Exiting...
+Invalid port. Exiting...
+1695522487115	geckodriver	INFO	Listening on 127.0.0.1:52000
+1695522488632	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofileJku0op"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695522489121	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695522489692	Marionette	INFO	Listening on port 52009
+WebDriver BiDi listening on ws://127.0.0.1:52001
+Read port: 52009
+1695522489934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52001/devtools/browser/52d528b5-6510-4499-b971-f8ebfe3bc1a8
+1695522493298	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+1695522840417	geckodriver	INFO	Listening on 127.0.0.1:52492
+1695522840427	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofile1SOIco"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695522840938	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695522841519	Marionette	INFO	Listening on port 52498
+WebDriver BiDi listening on ws://127.0.0.1:52493
+Read port: 52498
+1695522841751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52493/devtools/browser/ed7d54f4-488e-4d72-8667-7525c793fcd5
+1695522845317	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.taobao.com."
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695522902999	Marionette	INFO	Stopped listening on port 52498
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1695523592265	Marionette	INFO	Stopped listening on port 52009
+1695537169924	geckodriver	INFO	Listening on 127.0.0.1:58813
+1695537171445	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofileBWKOzk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695537171952	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695537172160	Marionette	INFO	Listening on port 58823
+Read port: 58823
+WebDriver BiDi listening on ws://127.0.0.1:58814
+1695537172523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58814/devtools/browser/25641eef-1679-43d9-9b9c-dfe01b11d114
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695537184290	Marionette	INFO	Stopped listening on port 58823
+1695537551358	geckodriver	INFO	Listening on 127.0.0.1:59079
+1695537551369	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofilePCw4Wr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695537551847	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695537552473	Marionette	INFO	Listening on port 59085
+WebDriver BiDi listening on ws://127.0.0.1:59080
+Read port: 59085
+1695537552676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59080/devtools/browser/4fa88cad-3f54-461a-9c05-826c61e91471
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695537567179	Marionette	INFO	Stopped listening on port 59085
+1695538398823	geckodriver	INFO	Listening on 127.0.0.1:59380
+1695538398833	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofilezyAi6T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695538399412	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695538400001	Marionette	INFO	Listening on port 59386
+WebDriver BiDi listening on ws://127.0.0.1:59381
+Read port: 59386
+1695538400301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59381/devtools/browser/12cc1798-88aa-4082-8ad2-8e57d6ca30b3
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695538419092	Marionette	INFO	Stopped listening on port 59386
+1695539283053	geckodriver	INFO	Listening on 127.0.0.1:59835
+1695539283064	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofileDXc478"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695539283570	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695539284157	Marionette	INFO	Listening on port 59841
+WebDriver BiDi listening on ws://127.0.0.1:59836
+Read port: 59841
+1695539284394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59836/devtools/browser/0871cbe3-1fdd-4450-8d5b-8780a928cb69
+1695539341999	geckodriver	INFO	Listening on 127.0.0.1:59886
+1695539342014	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofileDkoURm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695539342502	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695539343187	Marionette	INFO	Listening on port 59892
+WebDriver BiDi listening on ws://127.0.0.1:59887
+Read port: 59892
+1695539343423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59887/devtools/browser/09174f2f-3d63-468a-8aa4-9dc3eea6840b
+1695539375886	geckodriver	INFO	Listening on 127.0.0.1:59940
+1695539375897	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofileWLQJhZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695539376416	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695539377002	Marionette	INFO	Listening on port 59946
+WebDriver BiDi listening on ws://127.0.0.1:59941
+Read port: 59946
+1695539377179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59941/devtools/browser/eedd1bf0-8e70-47b7-b07d-e0ce7280325b
+1695539525840	Marionette	INFO	Stopped listening on port 59892
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+1695539527233	Marionette	INFO	Stopped listening on port 59841
+1695539528697	Marionette	INFO	Stopped listening on port 59946
+1695539937749	geckodriver	INFO	Listening on 127.0.0.1:60364
+1695539937760	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofileL5Be29"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695539938313	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695539938512	Marionette	INFO	Listening on port 60370
+Read port: 60370
+WebDriver BiDi listening on ws://127.0.0.1:60365
+1695539938879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60365/devtools/browser/085ca40a-c077-497b-956a-2e6bf4e0dbc0
+1695539983848	geckodriver	INFO	Listening on 127.0.0.1:60406
+1695539983858	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofilerjGxZV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695539984359	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695539984942	Marionette	INFO	Listening on port 60412
+WebDriver BiDi listening on ws://127.0.0.1:60407
+Read port: 60412
+1695539985181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60407/devtools/browser/365711c9-0757-4b26-a5da-17a29e2e8652
+1695540037293	geckodriver	INFO	Listening on 127.0.0.1:60454
+1695540037307	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofiles19Vpl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695540037815	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695540038401	Marionette	INFO	Listening on port 60460
+WebDriver BiDi listening on ws://127.0.0.1:60455
+Read port: 60460
+1695540038633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60455/devtools/browser/e2383251-2b6d-4286-9557-2f73f9821263
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript error: https://ecpm.tanx.com/ex?i=mm_12852562_1778064_69476187&_ksTS=1695540045434_95&cb=jsonp96, line 1: SyntaxError: unexpected token: ':'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1695540050681	Marionette	INFO	Stopped listening on port 60460
+1695540109453	geckodriver	INFO	Listening on 127.0.0.1:60561
+1695540110971	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofilefDzkCF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695540111463	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-blink-features"
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695540112042	Marionette	INFO	Listening on port 60570
+WebDriver BiDi listening on ws://127.0.0.1:60562
+Read port: 60570
+1695540112282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60562/devtools/browser/bba6eb14-aa7b-46b3-9219-fd4d3cb099b4
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: Script terminated by timeout at:
+i/<@https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js:1:1969
+i@https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js:1:43926
+
+1695540287078	Marionette	INFO	Stopped listening on port 60412
+1695540290795	Marionette	INFO	Stopped listening on port 60570
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1695540291901	Marionette	INFO	Stopped listening on port 60370
+1695541487492	geckodriver	INFO	Listening on 127.0.0.1:62564
+1695541489013	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofilezSuthW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695541489555	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695541490143	Marionette	INFO	Listening on port 62615
+Read port: 62615
+WebDriver BiDi listening on ws://127.0.0.1:62565
+1695541490203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62565/devtools/browser/0ca6600d-db4b-42d4-ba30-bf421d0f3712
+1695541618708	geckodriver	INFO	Listening on 127.0.0.1:62671
+1695541618720	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/zl/n_ysd4t126j30r6_lyxrbr0h0000gn/T/rust_mozprofileD5NHYy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695541619228	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695541619806	Marionette	INFO	Listening on port 62677
+WebDriver BiDi listening on ws://127.0.0.1:62672
+Read port: 62677
+1695541620046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62672/devtools/browser/b3cc1d45-aedb-4db2-8c36-36f239f44749
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna&nn=&count=13&pid=430266_1006&_ksTS=1695541624468_70&callback=jsonp71, line 1: ReferenceError: jsonp71 is not defined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/uab/1.140.0/collina.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/secdev/nsv/1.0.87/ns_f_95_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.70.2/et_n.js, line 2: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/fireyejs/1.226.0/fireyejs.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1695541662978	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1695541668244	Marionette	INFO	Stopped listening on port 62677
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1695693178079	Marionette	INFO	Stopped listening on port 62615
